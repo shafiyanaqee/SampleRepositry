@@ -1,1 +1,1 @@
-# SampleRepositry
+# GitPractice
